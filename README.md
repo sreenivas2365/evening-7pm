@@ -1,2 +1,2 @@
 # evening-7pm
-Created for testing and to do the demo of Git and GitHub
+Created for testing and to do the demo of Git and GitHub and teach students hoe github works
